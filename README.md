@@ -6,7 +6,7 @@
 
 I am an AI and Full Stack expert with huge experience in natural language processing, web development, and digital technologies.<br>
 My expertise includes developing and deploying AI models, creating and managing web applications, and integrating advanced algorithms for data analysis and user interaction.<br>
-I possess strong skills in programming languages such as JavaScript, PHP, Python, Java and I am proficient in using frameworks like Langchain, Node.js, React, Vue.js and Angular. Backend skills are Node, Express.js. Database is MongoDB, MySQL<br>
+I possess strong skills in programming languages such as JavaScript, PHP, Python, Java and I am proficient in using frameworks like Langchain, Node.js, React, Vue.js and Angular. Backend skills are Node, Express.js and Nest.js. Database skills are MongoDB and MySQL<br>
 <br>
 
 ### 💻 My Core Skills:
